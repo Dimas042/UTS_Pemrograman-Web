@@ -1,0 +1,26 @@
+
+.clear {
+	clear: both;
+}
+
+table {
+  margin-top: 100px;
+  border-collapse: collapse;
+  width: 50%;
+  border: 1px solid black;
+}
+
+th {
+  background-color: #22577E;
+  color: white;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  border: 1px solid black;
+}
+
+tr:hover {background-color:#2FA4FF;}
+

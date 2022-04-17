@@ -1,0 +1,59 @@
+[
+	{
+		"id": 1,
+		"gambar": "images/baju.jfif",
+		"name": "Baju Muslim",
+		"price": "170.000",
+		"ukuran": "XL",
+		"warna": "Merah, Kuning, Hijau",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.1 Surabaya"
+
+	},
+	{
+		"id": 2,
+		"gambar": "images/sarung.jfif",
+		"name": "Sarung",
+		"price": "100.000",
+		"ukuran": "L",
+		"warna": "Hitam, Putih, Cream",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.2 Surabaya"
+	},
+	{
+		"id": 3,
+		"gambar": "images/celanachinos.jfif",
+		"name": "Celana Chinos",
+		"price": "130.000",
+		"ukuran": "38",
+		"warna": "Putih, Abu-Abu, Hitam",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.3 Surabaya"
+	},
+	{
+		"id": 4,
+		"gambar": "images/peci.jfif",
+		"name": "Peci",
+		"price": "50.000",
+		"ukuran": "44",
+		"warna": "Merah, Hitam, Abu-Abu",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.4 Surabaya"
+	},
+	{
+		"id": 5,
+		"gambar": "images/sajadah.jfif",
+		"name": "Sajadah",
+		"price": "40.000",
+		"ukuran": "45/100",
+		"warna": "Putih, Merah, Hitam",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Ahmad Yani No.5 Surabaya"
+	}
+	
+]
