@@ -9,7 +9,7 @@
 
 	<!-- Link to my stylesheet -->
 	<link rel="stylesheet" href="style.css"> 
-	<title>no3</title>
+	<title>Soal3</title>
 </head>
 <body>
 
