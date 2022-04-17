@@ -26,7 +26,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Array Asosiatif</title>
+	<title>Soal1</title>
 </head>
 <body>
     <center>
